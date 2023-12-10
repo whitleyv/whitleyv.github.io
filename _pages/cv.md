@@ -54,8 +54,8 @@ Skills
 * 3D Image Processessing Software
   * ImageJ, BoneJ, PerGeos, ilastik, iMorph, Blob3D
      
- Publications and Presentations
- ======
+Talks
+======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
