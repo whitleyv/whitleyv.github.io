@@ -1,10 +1,10 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate Course"
+type: "Undergraduate Courses"
 permalink: /teaching/TeachingAssistant
 venue: "University of Maryland, Department of Mathematics"
-date: Spring 2023, Spring 2021, Fall 2019
+date: 2019-2023
 location: "College Park, MD"
 ---
 
