@@ -4,6 +4,6 @@ collection: talks
 type: "Poster"
 permalink: /talks/Burgers
 venue: "The Burgers Program for Fluid Dynamics Symposium"
-date: 2023-10-06
+date: 2023-10-6
 location: "College Park, MD
 ---
