@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Courses"
 permalink: /teaching/InstructorOfRecord
 venue: "University of Maryland, Department of Mathematics"
-date: 2020-2023
+date: 2023-12-13
 location: "College Park, MD"
 ---
 
