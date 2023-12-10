@@ -1,10 +1,10 @@
 ---
 title: "Instructor of Record"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Courses"
 permalink: /teaching/InstructorOfRecord
 venue: "University of Maryland, Department of Mathematics"
-date: Fall 2023, Fall 2021, Fall 2020, Spring 2020
+date: 2020-2023
 location: "College Park, MD"
 ---
 
