@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Courses"
 permalink: /teaching/TeachingAssistant
 venue: "University of Maryland, Department of Mathematics"
-date: 2019-2023
+date: 2023-05-13
 location: "College Park, MD"
 ---
 
