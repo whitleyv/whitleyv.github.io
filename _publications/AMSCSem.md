@@ -1,6 +1,6 @@
 ---
 title: "Immersed Boundary Methods for Simulating Topography in Ocean Applications"
-collection: publications
+collection: talks
 permalink: /publication/AMSCSem
 excerpt: 'Talk'
 date: 2022-10-18
