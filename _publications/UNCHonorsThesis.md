@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/UNCHonorsThesis
 excerpt: 'This is the 2019 Honors Thesis submitted through the University of North Carolina. The effect of multi-component diffusive convection in a fluid layer is studied, through both an experimental component and a neutral stability analysis.'
 date: 2019-05-19
+venue: 'UNC Libraries"
 paperurl: 'https://cdr.lib.unc.edu/concern/honors_theses/3f4629462'
 ---
 
