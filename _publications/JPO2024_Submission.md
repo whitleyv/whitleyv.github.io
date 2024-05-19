@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/JPO2024_Submission
 excerpt: 'This paper has been submitted to the Journal of Physical Oceangraphy. It considers internal wave interactions with sloping topography using LES.'
 date: 2024-04-05
+venue: 'EarthArxiv'
 paperurl: 'https://eartharxiv.org/repository/view/6926/'
 ---
 
