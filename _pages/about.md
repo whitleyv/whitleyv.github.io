@@ -12,7 +12,8 @@ __I am a PhD candidate and teaching assistant in the Applied Mathematics, Statis
 
 Currently, my research focuses on boundary exchange and mixing from breaking internal waves on sloping topography, using Large Eddy Simulations (LES). I studied Applied Mathematics at the University of North Carolina, Chapel Hill, while working at the [Joint Applied Math and Marine Sciences Fluids Lab](https://amath.unc.edu/research/fluid-mechanics/fluids-lab/) until 2019. Broadly, I am interested in numerical applications of ocean dynamics, particularly in the ocean submesoscale and interactions with topography and am driven by a passion for connecting mathematical and computational concepts to the natural world. 
 
-<video src="images/paper_3D_tracer_U250N100Lz100g100.mp4" width="320" height="240" controls></video>
+Video of a boundary tracer release using 3D LES 
+<video src="images/paper_3D_tracer_U250N100Lz100g100.mp4" width="1000" height="600" controls></video>
 
 ======
 ### News
