@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](images/VWC_CV_Redacted.pdf) to download a current PDF of my CV.
+Click [here](../images/VWC_CV_Redacted.pdf) to download a current PDF of my CV.
 
 Education
 ======
