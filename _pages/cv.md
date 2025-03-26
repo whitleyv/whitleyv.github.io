@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Click [here]() to download a current PDF of my CV.
+
 Education
 ======
 * B.S. in Applied Mathematics, University of North Carolina, Chapel Hill, with Honors, 2019
