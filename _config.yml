@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Victoria Whitley"
+title                    : "Victoria Whitley Clark"
 title_separator          : "-"
-name                     : &name "Victoria Whitley"
+name                     : &name "Victoria Whitley Clark"
 description              : &description "Victoria is an Applied Math and Scientific Computing PhD Candidate at the University of Maryland, College Park, with a focus on numerical applications of ocean dynamics, particularly in the ocean submesoscale and interactions with topography."
 url                      : https://whitleyv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
