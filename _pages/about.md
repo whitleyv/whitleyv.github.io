@@ -14,6 +14,7 @@ Currently, my research focuses on boundary exchange and mixing from breaking int
 <video autoplay muted loop src="images/paper_3D_tracer_U250N100Lz100g100.mp4" width="900" height="350" controls></video>
 ======
 ### News
+* (Feb 2025) [Breaking internal waves on sloping topography: connecting parcel displacements to overturn size, interior-boundary exchanges, and mixing](https://eartharxiv.org/repository/view/6926/) accepted at JPO
 * (April 2024) Submitted [Breaking internal waves on sloping topography: connecting parcel displacements to overturn size, interior-boundary exchanges, and mixing](https://eartharxiv.org/repository/view/6926/) to JPO
 * (June 2023) [Ph.D. Student Victoria Whitley ‘Talks Math’ and Mentorship](https://cmns.umd.edu/news-events/news/phd-student-victoria-whitley-coleads-girls-talk-math-camp)
 * (May 2023) Received Hauptman Fellowship
