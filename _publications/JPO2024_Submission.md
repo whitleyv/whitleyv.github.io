@@ -2,7 +2,7 @@
 title: "Breaking Internal Waves on Sloping Topography: Connecting Parcel Displacements to Overturn Size, Interior-Boundary Exchanges, and Mixing"
 collection: publications
 permalink: /publication/JPO2024_Submission
-excerpt: 'Using LES, this work looks at the internal tide breaking process on sloping bottom topography, finding a strong dependence on the length scale we term the 'effective wave height' from the initial overtuns to the ejection of near-boundary fluid into the interior. There is also a discussion of the subsequent water-mass transformation and mixing in the BBL using both a volume budget and buoyancy fluxes.'
+excerpt: "Using LES, this work looks at the internal tide breaking process on sloping bottom topography, finding a strong dependence on the length scale we term the 'effective wave height' from the initial overtuns to the ejection of near-boundary fluid into the interior. There is also a discussion of the subsequent water-mass transformation and mixing in the BBL using both a volume budget and buoyancy fluxes."
 date: 2025-06-01
 venue: 'Journal of Phsyical Oceanography'
 paperurl: 'https://doi.org/10.1175/JPO-D-24-0052.1'
