@@ -16,13 +16,20 @@ Education
 * B.S. in Applied Mathematics, University of North Carolina, Chapel Hill, with Honors, 2019
   * Minor in Women's and Gender Studies
   * Deans List, Phi Beta Kappa
-* Ph.D Candidacy in Applied Mathematics, Statistics, and Scientific Computing, University of Maryland, College Park, 2022
+* Ph.D in Applied Mathematics, Statistics, and Scientific Computing, University of Maryland, College Park, 2026
   * Advised by [Dr. Jacob Wenegrat](https://wenegrat.github.io)
   * Flagship Fellowship, Hauptman Summer Fellowship
 
 Research experience
 ======
-* July 2020 - Present: Graduate Research Assistant
+* Jan 2026 - Present: Head of Computational Physics (Ocean Modeler, Jan - Aug 2026)
+  * atdepth
+  * Projects:
+      * Development of new modeling capabilities for regional and near-field simulations
+      * Extending representation of physical processes and of human interventions in the ocean
+      * Coupling across scales, from regional circulation down to near-field intervention dynamics
+     
+* July 2020 - Dec 2025: Graduate Research Assistant
   * Dept. of Atmospheric and Oceanic Sciences, Univ. of Maryland
   * Projects:
       * Exploration of Internal Wave Breaking and Mixing in the Bottom Boundary Layer
@@ -37,7 +44,6 @@ Research experience
       * Construction of a Multi-Probe Conductivity Meter using Raspberry Pis
       * Diffusion Effects of Falling Spheres through Stratified Salts
   * Supervisors: Drs. Richard McLaughlin, Roberto Camassa
-
 
 * May 2018 - Aug 2018: [Mickey Leland Energy Fellow](https://netl.doe.gov/education/internships/MLEF)
   * National Energy Technology Laboratory, Morgantown, WV
@@ -70,9 +76,9 @@ Teaching
   
 Service and leadership
 ======
-* Jan 2020 - Present: Director of [Girls Talk Math Camp](http://gtm.math.umd.edu)
-* Aug 2023 - Present: Chair, Social/ Seminar Lead of Graduate Student Committee of AMSC, MATH and STAT
-* Aug 2020 - Present: First Year Mentor for AMSC Program
+* Jan 2020 - July 2025: Director of [Girls Talk Math Camp](http://gtm.math.umd.edu)
+* Aug 2023 - Aug 2024: Chair, Social/ Seminar Lead of Graduate Student Committee of AMSC, MATH and STAT
+* Aug 2020 - Aug 2024: First Year Mentor for AMSC Program
 * Jul 2020 - May 2023: President, Treasurer of [Women in Mathematics](http://wim.math.umd.edu)
 * Aug 2022 - May 2023: President of AMSC Student Council
 
